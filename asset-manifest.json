@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tutorials-app/static/css/main.4da62354.css",
+    "main.js": "/tutorials-app/static/js/main.3e1228d5.js",
+    "index.html": "/tutorials-app/index.html",
+    "main.4da62354.css.map": "/tutorials-app/static/css/main.4da62354.css.map",
+    "main.3e1228d5.js.map": "/tutorials-app/static/js/main.3e1228d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.3e1228d5.js"
+  ]
+}
